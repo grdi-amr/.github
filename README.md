@@ -1,5 +1,3 @@
-# Welcome
+# .github
 
-Welcome to the GRDI-AMR GitHub organization. 
-
-Learn more about the GRDI-AMR1|2 projects at [grdi-amr.com](https://grdi-amr.com).
+This is a special repository; `/profile/README.md` will appear on the organization's public profile. 
