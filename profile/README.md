@@ -7,7 +7,7 @@ Here, you will find tools and documentation relating to the project.
 
 Learn more about the GRDI-AMR1|2 projects at [grdi-amr.com](https://grdi-amr.com).
 
-## Important Links 
+## Important Links
 
 ### Metadata Standardization:
 
@@ -15,7 +15,7 @@ Several tools and SOPs are available to help standardize your sample, isolate, a
 Please contact [Emil Jurga](mailto:emil.jurga@phac-aspc.gc.ca) and [Gabriel Wajnberg](mailto:gabriel.wajberg@inspection.gc.ca) for questions and assistance.
 
 Standard Operating Procedures:
-- [SOP for standardizing metadata](https://github.com/grdi-amr/docs-and-SOPs/blob/main/metadata_standards_sop.md):
+- [SOP for standardizing metadata](https://github.com/grdi-amr/docs/blob/main/metadata_standards_sop.md):
     A webpage that outlines how to standardize sample, isolate, and sequence metadata.
 - [SOPs and documentation for the GRDI One Health Data Standard](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs):
     A directory of PDFs that dives into more detail about the data standard, including detailed information on the fields and pick-lists.
@@ -26,5 +26,4 @@ Tools:
     A standalone webapp that provides a spreadsheet-like interface to fill out and validate data according to the GRDI-OH standard.
 - [The Excel Spreadsheet](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Template):
     An excel spreadsheet implementation of the standard.
-
 
